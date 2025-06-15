@@ -1,6 +1,5 @@
-# Sidekick
-
-**sidekick** — Your AI-powered health companion for vitamin identification and medication guidance.
+# sidekick
+Your AI-powered health companion for vitamin identification and medication guidance.
 
 ## Getting Started
 
