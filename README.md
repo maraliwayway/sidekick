@@ -1,23 +1,37 @@
-# sidekick
+# Sidekick
 
-environment setup
+**sidekick** — Your AI-powered health companion for vitamin identification and medication guidance.
 
-setup venv first
+## Getting Started
 
-OR
+Follow these steps to set up and run the project:
 
-instead of making your own venv, do this:
+### 1. Clone the repository and set up the backend environment
+
+```bash
 git clone <your-repo-url>
 cd backend
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+python3 -m venv venv            # Create a virtual environment
+source venv/bin/activate       # Activate the virtual environment
+pip install -r requirements.txt  # Install dependencies
+````
 
-0. put ip address
-1. cd backend
-2. uvicorn main:app --host 0.0.0.0 --port 8000
-3. cd ..
-4. cd frontend
-5. npx expo start
-6. npm install --legacy-peer-deps
+### 2. Configure the frontend
 
+* Open `sidekick/frontend/app/(tabs)/index.tsx`
+* Replace the placeholder IP address with your backend server's IP address (e.g., `http://YOUR_IP_ADDRESS:8000`)
+
+### 3. Run the backend server
+
+```bash
+cd backend
+uvicorn main:app --host 0.0.0.0 --port 8000
+```
+
+### 4. Set up and run the frontend
+
+```bash
+cd ../frontend
+npm install --legacy-peer-deps    # Install frontend dependencies
+npx expo start                   # Start the Expo development server
+```
