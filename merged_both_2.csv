@@ -1,0 +1,201 @@
+Drug,Condition,Sides,generic_name,Method_of_Access,pregnancy_category,alcohol,rating,EaseofUse,Effectiveness,Satisfaction
+Desoxyn,ADHD,N/A,methamphetamine,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,9.4,N/A,N/A,N/A
+Jornay PM,ADHD,N/A,methylphenidate hydrochloride,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,8.7,N/A,N/A,N/A
+methamphetamine,ADHD,N/A,methamphetamine,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,8.8,N/A,N/A,N/A
+ProCentra,ADHD,N/A,dextroamphetamine,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,9.5,N/A,N/A,N/A
+selegiline,ADHD,N/A,selegiline (oral),Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,10.0,N/A,N/A,N/A
+Stribild,AIDS/HIV,N/A,"cobicistat, elvitegravir, emtricitabine, and tenofovir",Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,9.5,N/A,N/A,N/A
+Epzicom,AIDS/HIV,N/A,abacavir and lamivudine,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,10.0,N/A,N/A,N/A
+Reyataz,AIDS/HIV,N/A,atazanavir,Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,10.0,N/A,N/A,N/A
+atazanavir,AIDS/HIV,N/A,atazanavir,Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,10.0,N/A,N/A,N/A
+Tivicay PD,AIDS/HIV,N/A,dolutegravir,Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,10.0,N/A,N/A,N/A
+acneclear gel,Acne,"Skin  reactions such as peeling,  itching , irritation, and reddened  skin  may occur, especially at the start of treatment.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+acnomel cream,Acne,N/A,N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+adapalene-benzoyl peroxide gel with pump,Acne,"Skin  redness, dryness, peeling, mild burning, swelling, or worsening of  acne  may occur during the first 4 weeks of using this product.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+Septra,Acne,N/A,sulfamethoxazole and trimethoprim (oral),Prescription (Doctor Required),"Evidence of risk, may still be used if needed",Interacts with alcohol,10.0,N/A,N/A,N/A
+altreno lotion,Acne,"A brief sensation of warmth or stinging may occur immediately after applying the  medication .  Skin  redness, dryness,  itching , scaling, mild burning, or worsening of  acne  may occur during the first 2-4 weeks of using the medication.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+alyacen tablet,Acne,"Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, swelling of the  ankles /feet (fluid retention), or  weight  change may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+Ery Pads,Acne,N/A,erythromycin,Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,10.0,N/A,N/A,N/A
+erythromycin,Acne,N/A,erythromycin topical,Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,10.0,N/A,N/A,N/A
+Acnex,Acne,N/A,salicylic acid (topical route),Prescription & Over-the-Counter,"Possible risk, benefits may outweigh risks",N/A,10.0,N/A,N/A,N/A
+Clindagel,Acne,N/A,clindamycin topical,Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,10.0,N/A,N/A,N/A
+"alrex suspension, drops (final dose form)",Allergies,"Stinging/burning of the  eyes  for 1 to 2 minutes and temporary  blurred vision  may occur when you apply this  medication . If any of these effects persist or worsen, tell your doctor or  pharmacist  promptly.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+loratadine,Allergies,N/A,loratadine,Prescription & Over-the-Counter,"Likely safe, not well studied in humans",N/A,4.8,N/A,N/A,N/A
+levocetirizine,Allergies,N/A,levocetirizine,Prescription & Over-the-Counter,"Likely safe, not well studied in humans",Interacts with alcohol,4.7,N/A,N/A,N/A
+aprodine,Allergies,"Drowsiness,  dizziness ,  dry mouth /nose/throat,  headache ,  upset stomach ,  constipation , or  trouble sleeping  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+hydroxyzine,Allergies,N/A,hydroxyzine,Prescription (Doctor Required),Not classified by FDA,Interacts with alcohol,7.3,N/A,N/A,N/A
+anti-itch (hydrocortisone) 1 % topical cream,Allergies,"Stinging, burning, irritation, dryness, or redness at the application site may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+Acthar,Allergies,N/A,Corticotropin,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",N/A,5.0,N/A,N/A,N/A
+"advair diskus blister, with inhalation device",Allergies,"Hoarseness, throat irritation,  headache , or  stomach  upset may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+corticotropin,Allergies,N/A,corticotropin,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",N/A,5.0,N/A,N/A,N/A
+allergy relief (diphenhydramine) 25 mg tablet,Allergies,"Drowsiness,  dizziness ,  constipation ,  stomach  upset,  blurred vision , or  dry mouth /nose/throat may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+alprazolam,Anxiety,"Drowsiness,  dizziness , increased  saliva  production, or change in  sex drive /ability may occur.",N/A,N/A,N/A,N/A,N/A,4.91,4.82,4.55
+alprazolam odt,Anxiety,"Drowsiness,  dizziness , increased  saliva  production, or change in  sex drive /ability may occur.",N/A,N/A,N/A,N/A,N/A,4.91,4.82,4.55
+prozac,Anxiety,"Nausea , drowsiness,  dizziness ,  anxiety ,  trouble sleeping , loss of appetite, tiredness,  sweating , or yawning may occur.",N/A,N/A,N/A,N/A,N/A,3.5,4.5,2.5
+amitriptyline / chlordiazepoxide,Anxiety,N/A,amitriptyline and chlordiazepoxide,Prescription (Doctor Required),Not classified by FDA,Interacts with alcohol,9.8,N/A,N/A,N/A
+alprazolam concentrate,Anxiety,"Drowsiness,  dizziness , increased  saliva  production, or change in  sex drive /ability may occur.",N/A,N/A,N/A,N/A,N/A,4.91,4.82,4.55
+alprazolam er,Anxiety,"Drowsiness,  dizziness , increased  saliva  production,  nausea ,  constipation , or change in  sex drive /ability may occur.",N/A,N/A,N/A,N/A,N/A,4.91,4.82,4.55
+Alprazolam Intensol,Anxiety,N/A,Alprazolam Oral Solution,Prescription (Doctor Required),"Evidence of risk, may still be used if needed",Interacts with alcohol,10.0,N/A,N/A,N/A
+Loreev XR,Anxiety,N/A,lorazepam (oral),Prescription (Doctor Required),"Evidence of risk, may still be used if needed",Interacts with alcohol,10.0,N/A,N/A,N/A
+Tranxene T-Tab,Anxiety,N/A,clorazepate,Prescription (Doctor Required),Not classified by FDA,Interacts with alcohol,10.0,N/A,N/A,N/A
+Diazepam Intensol,Anxiety,N/A,diazepam (oral route),Prescription (Doctor Required),"Evidence of risk, may still be used if needed",Interacts with alcohol,10.0,N/A,N/A,N/A
+albuterol sulfate 2.5 mg/0.5 ml solution for nebulization,Asthma,"Nervousness, shaking (tremor),  headache ,  nausea  or  dizziness  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.33
+Xopenex,Asthma,N/A,levalbuterol inhalation,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",N/A,10.0,N/A,N/A,N/A
+Atrovent,Asthma,N/A,ipratropium (inhalation route),Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,9.0,N/A,N/A,N/A
+alvesco hfa aerosol with adapter,Asthma,"Dry/irritated throat, hoarseness, a bad taste in the  mouth , or  coughing  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+Ipratropium Inhalation Solution,Asthma,N/A,Ipratropium Inhalation Solution,Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,10.0,N/A,N/A,N/A
+albuterol sulfate 90 mcg/actuation breath activated powder inhaler,Asthma,"Nervousness,  dizziness , shaking (tremor),  headache ,  nausea ,  mouth /throat dryness or irritation, or unusual taste may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.33
+Atrovent HFA,Asthma,N/A,ipratropium inhalation,Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,9.5,N/A,N/A,N/A
+albuterol sulfate vial for nebulizer beta-adrenergic agents short-acting (inhaled),Asthma,"Nervousness, shaking (tremor),  headache ,  nausea  or  dizziness  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.33
+MethylPREDNISolone Dose Pack,Asthma,N/A,methylprednisolone (oral),Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",N/A,9.5,N/A,N/A,N/A
+albuterol sulfate hfa aerosol with adapter beta-adrenergic agents short-acting (inhaled),Asthma,"Nervousness, shaking (tremor),  headache ,  mouth /throat dryness or irritation, changes in taste,  cough ,  nausea  or  dizziness  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.33
+vraylar,Bipolar,"Dizziness ,  lightheadedness , drowsiness,  nausea , tiredness, excess  saliva /drooling,  blurred vision ,  weight  gain, or  constipation  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.0
+olanzapine-fluoxetine hcl,Bipolar,"Dizziness ,  lightheadedness , drowsiness,  diarrhea ,  dry mouth ,  constipation , increased appetite,  weight  gain, or  trouble sleeping  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,3.0
+lithobid,Bipolar,"Drowsiness,  dizziness , tiredness, increased thirst, increased frequency of urination,  weight  gain, and mildly shaking hands (fine tremor) may occur.",N/A,N/A,N/A,N/A,N/A,3.0,5.0,5.0
+invega,Bipolar,"Drowsiness,  dizziness ,  lightheadedness , drooling,  stomach / abdominal pain ,  weight  gain, or tiredness may occur.",N/A,N/A,N/A,N/A,N/A,4.0,5.0,4.0
+depakote sprinkle,Bipolar,"Diarrhea ,  dizziness , drowsiness,  hair loss , blurred/ double vision , change in menstrual periods,  ringing in the ears , shakiness (tremor), unsteadiness,  weight  changes may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+olanzapine / samidorphan,Bipolar Disorder,N/A,olanzapine and samidorphan,Prescription (Doctor Required),N/A,Interacts with alcohol,10.0,N/A,N/A,N/A
+Lamictal ODT,Bipolar Disorder,N/A,lamotrigine,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,9.0,N/A,N/A,N/A
+iloperidone,Bipolar Disorder,N/A,iloperidone,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,8.7,N/A,N/A,N/A
+tiagabine,Bipolar Disorder,N/A,tiagabine,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,10.0,N/A,N/A,N/A
+Lybalvi,Bipolar Disorder,N/A,olanzapine and samidorphan,Prescription (Doctor Required),N/A,Interacts with alcohol,10.0,N/A,N/A,N/A
+cyclafem tablet,Birth Control,"Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, swelling of the  ankles /feet (fluid retention), or  weight  change may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,3.0
+dasetta,Birth Control,"Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, swelling of the  ankles /feet (fluid retention), or  weight  change may occur.",N/A,N/A,N/A,N/A,N/A,4.0,5.0,5.0
+deblitane,Birth Control,"Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+elinest,Birth Control,"Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, swelling of the  ankles /feet (fluid retention), or  weight  change may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.5
+annovera 0.15 mg-0.013 mg/24 hr vaginal ring contraceptives,Birth Control,"Vaginal discomfort/irritation,  nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, swelling of the  ankles /feet (fluid retention), or  weight  change may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.0
+Drixoral Cold and Allergy,Colds & Flu,N/A,dexbrompheniramine and pseudoephedrine,Prescription & Over-the-Counter,"Possible risk, benefits may outweigh risks",Interacts with alcohol,10.0,N/A,N/A,N/A
+brompheniramine,Colds & Flu,N/A,N/A,Prescription & Over-the-Counter,"Possible risk, benefits may outweigh risks",Interacts with alcohol,10.0,N/A,N/A,N/A
+dextromethorphan / promethazine,Colds & Flu,N/A,dextromethorphan and promethazine,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,10.0,N/A,N/A,N/A
+acetaminophen / dextromethorphan / guaifenesin / phenylephrine,Colds & Flu,N/A,"acetaminophen, dextromethorphan, guaifenesin, and phenylephrine",Prescription & Over-the-Counter,Not classified by FDA,Interacts with alcohol,10.0,N/A,N/A,N/A
+Promethazine DM,Colds & Flu,N/A,dextromethorphan and promethazine,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,10.0,N/A,N/A,N/A
+Citrate of Magnesia,Constipation,N/A,magnesium citrate,Prescription & Over-the-Counter,"Possible risk, benefits may outweigh risks",N/A,10.0,N/A,N/A,N/A
+Disposable Enema,Constipation,N/A,sodium biphosphate and sodium phosphate (rectal),Prescription & Over-the-Counter,"Possible risk, benefits may outweigh risks",N/A,10.0,N/A,N/A,N/A
+Citrucel,Constipation,N/A,methylcellulose,Prescription & Over-the-Counter,Not classified by FDA,N/A,10.0,N/A,N/A,N/A
+Fleet Bisacodyl,Constipation,N/A,Bisacodyl Enema,Over-the-Counter (No Prescription),"Likely safe, not well studied in humans",N/A,10.0,N/A,N/A,N/A
+Purelax,Constipation,N/A,polyethylene glycol 3350,Prescription & Over-the-Counter,"Possible risk, benefits may outweigh risks",N/A,10.0,N/A,N/A,N/A
+neutrogena t/sal 3 % shampoo keratolytics (shampoos),Dandruff,N/A,N/A,N/A,N/A,N/A,N/A,1.0,1.0,1.0
+selenium sulfide shampoo,Dandruff,"Skin  irritation,  dry skin , oily or  dry hair /scalp, or temporary  hair loss  may occur.",N/A,N/A,N/A,N/A,N/A,3.0,2.0,1.0
+pyrithione zinc shampoo,Dandruff,N/A,N/A,N/A,N/A,N/A,N/A,1.0,1.0,1.0
+niz a-d shampoo,Dandruff,"This  medication  may cause abnormal  hair  texture, discoloration, irritation, or  pimple -like bumps on the scalp.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+ionil t shampoo,Dandruff,"Skin /scalp irritation or staining of  skin / hair  (especially in patients with blonde, bleached, dyed, or gray  hair ) may occur.",N/A,N/A,N/A,N/A,N/A,3.0,4.0,3.0
+isocarboxazid,Depression,N/A,isocarboxazid,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,9.0,N/A,N/A,N/A
+"methylphenidate er tablet, extended release 24 hr",Depression,"Nervousness,  trouble sleeping , loss of appetite,  weight loss ,  dizziness ,  nausea ,  vomiting , or  headache  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.0
+methylphenidate hcl,Depression,"Nervousness,  trouble sleeping , loss of appetite,  weight loss ,  dizziness ,  nausea ,  vomiting , or  headache  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.0
+aplenzin,Depression,"Dry mouth ,  sore throat ,  dizziness ,  nausea ,  vomiting ,  ringing in the ears ,  headache , decreased appetite,  weight loss ,  constipation ,  trouble sleeping , increased  sweating , or shaking (tremor) may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.0
+Norpramin,Depression,N/A,desipramine (oral route),Prescription (Doctor Required),Not classified by FDA,Interacts with alcohol,9.8,N/A,N/A,N/A
+Forfivo XL,Depression,N/A,bupropion hydrochloride,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,10.0,N/A,N/A,N/A
+"methylphenidate er tablet, extended release",Depression,"Nervousness,  trouble sleeping , loss of appetite,  weight loss ,  dizziness ,  nausea ,  vomiting , or  headache  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.0
+Aventyl Hydrochloride,Depression,N/A,nortriptyline (oral route),Prescription (Doctor Required),Not classified by FDA,Interacts with alcohol,9.0,N/A,N/A,N/A
+"methylphenidate er 100 mg capsule,delayed release,ext release sprinkle",Depression,"Nervousness,  trouble sleeping , loss of appetite,  weight loss ,  dizziness ,  nausea ,  vomiting , or  headache  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.0
+amoxapine,Depression,N/A,amoxapine,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,9.6,N/A,N/A,N/A
+bismuth subsalicylate,Diarrhea,N/A,bismuth subsalicylate,Prescription & Over-the-Counter,Not classified by FDA,N/A,9.4,N/A,N/A,N/A
+opium,Diarrhea,N/A,opium preparation,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,9.6,N/A,N/A,N/A
+crofelemer,Diarrhea,N/A,crofelemer,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",N/A,10.0,N/A,N/A,N/A
+Anti-Diarrheal,Diarrhea,N/A,loperamide hydrochloride,Prescription & Over-the-Counter,"Possible risk, benefits may outweigh risks",Interacts with alcohol,10.0,N/A,N/A,N/A
+diphenoxylate-atropine,Diarrhea,"Drowsiness,  dizziness ,  headache , tiredness,  blurred vision ,  dry mouth , and loss of appetite may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+questran light 4 gram oral powder,Diarrhea,"Constipation ,  stomach / abdominal pain , gas,  nausea , and  vomiting  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+"kaopectate suspension, (final dose form)",Diarrhea,Side effects from this  medication  are rare.,N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+Pepto-Bismol,Diarrhea,N/A,bismuth subsalicylate,Prescription & Over-the-Counter,Not classified by FDA,N/A,9.3,N/A,N/A,N/A
+levbid,Diarrhea,"Dizziness , drowsiness,  blurred vision ,  dry mouth ,  headache ,  trouble sleeping ,  constipation , flushing,  dry skin , and decreased  sweating  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.0
+anti-diarrhea,Diarrhea,"Dizziness , drowsiness, tiredness, or  constipation  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+elidel cream,Eczema,Mild burning or irritation at the application site may occur during the first few days of treatment.,N/A,N/A,N/A,N/A,N/A,3.4,2.4,2.6
+flurandrenolide,Eczema,N/A,flurandrenolide topical,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",N/A,10.0,N/A,N/A,N/A
+medrol,Eczema,"Nausea ,  vomiting ,  heartburn ,  headache ,  dizziness ,  trouble sleeping , appetite changes, increased  sweating , or  acne  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+protopic ointment,Eczema,"Stinging, burning, soreness, or  itching  in the area of treated  skin  may occur during the first few days of treatment.",N/A,N/A,N/A,N/A,N/A,4.5,3.83,3.83
+clocortolone,Eczema,N/A,clocortolone topical,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",N/A,10.0,N/A,N/A,N/A
+ammonium lactate 5 % lotion,Eczema,Most emollients can be used safely and effectively with no side effects.,N/A,N/A,N/A,N/A,N/A,5.0,2.0,2.0
+ammonium lactate cream,Eczema,"Stinging, burning, and redness may occur.",N/A,N/A,N/A,N/A,N/A,5.0,2.0,2.0
+Clobex,Eczema,N/A,clobetasol topical,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",N/A,10.0,N/A,N/A,N/A
+Cloderm,Eczema,N/A,clocortolone topical,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",N/A,10.0,N/A,N/A,N/A
+Cordran Tape,Eczema,N/A,flurandrenolide topical,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",N/A,10.0,N/A,N/A,N/A
+viagra,Erectile Dysfunction,"Dizziness ,  headache , flushing, or  stomach  upset may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+tadalafil,Erectile Dysfunction,N/A,tadalafil,Prescription (Doctor Required),"Likely safe, not well studied in humans",Interacts with alcohol,8.4,N/A,N/A,N/A
+staxyn,Erectile Dysfunction,"Headache , flushing, or  dizziness  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+Caverject Impulse,Erectile Dysfunction,N/A,alprostadil,Prescription (Doctor Required),Unsafe in pregnancy,N/A,9.5,N/A,N/A,N/A
+Cialis,Erectile Dysfunction,N/A,tadalafil,Prescription (Doctor Required),"Likely safe, not well studied in humans",Interacts with alcohol,8.6,N/A,N/A,N/A
+Viagra,Erectile Dysfunction,N/A,sildenafil (oral),Prescription (Doctor Required),"Likely safe, not well studied in humans",Interacts with alcohol,8.5,N/A,N/A,N/A
+cialis,Erectile Dysfunction,"Headache ,  stomach  upset,  back pain ,  muscle pain , stuffy nose, flushing, or  dizziness  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+Staxyn,Erectile Dysfunction,N/A,vardenafil,Prescription (Doctor Required),"Likely safe, not well studied in humans",Interacts with alcohol,8.7,N/A,N/A,N/A
+Tagamet HB,GERD (Heartburn),N/A,cimetidine,Prescription & Over-the-Counter,"Likely safe, not well studied in humans",Interacts with alcohol,10.0,N/A,N/A,N/A
+Alka-Seltzer Heartburn + Gas,GERD (Heartburn),N/A,Calcium Carbonate and Simethicone,Over-the-Counter (No Prescription),"Possible risk, benefits may outweigh risks",N/A,10.0,N/A,N/A,N/A
+Axid AR,GERD (Heartburn),N/A,nizatidine,Over-the-Counter (No Prescription),"Likely safe, not well studied in humans",N/A,10.0,N/A,N/A,N/A
+Pepcid AC Chewable Tablets,GERD (Heartburn),N/A,Famotidine Chewable Tablets,Over-the-Counter (No Prescription),"Likely safe, not well studied in humans",N/A,10.0,N/A,N/A,N/A
+Mylanta,GERD (Heartburn),N/A,"Aluminum Hydroxide, Magnesium Hydroxide, and Simethicone Suspension",Over-the-Counter (No Prescription),Not classified by FDA,N/A,10.0,N/A,N/A,N/A
+lidocaine,Gastrointestinal,N/A,lidocaine topical,Prescription & Over-the-Counter,"Likely safe, not well studied in humans",N/A,N/A,N/A,N/A,N/A
+alvimopan,Gastrointestinal,N/A,alvimopan,Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,N/A,N/A,N/A,N/A
+Lidocaine Viscous,Gastrointestinal,N/A,lidocaine viscous,Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,N/A,N/A,N/A,N/A
+Glydo,Gastrointestinal,N/A,lidocaine topical,Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,N/A,N/A,N/A,N/A
+Entereg,Gastrointestinal,N/A,alvimopan,Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,N/A,N/A,N/A,N/A
+"minoxidil solution, non-",Hair Loss,"Burning, stinging, or redness at the application site may occur.",N/A,N/A,N/A,N/A,N/A,3.67,3.33,2.67
+Rogaine,Hair Loss,N/A,minoxidil topical,Prescription & Over-the-Counter,"Possible risk, benefits may outweigh risks",N/A,4.6,N/A,N/A,N/A
+hair regrowth for women 2 % topical solution,Hair Loss,"Burning, stinging, or redness at the application site may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+Kenalog-10,Hair Loss,N/A,triamcinolone (injection route),Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",N/A,8.8,N/A,N/A,N/A
+minoxidil,Hair Loss,N/A,minoxidil topical,Prescription & Over-the-Counter,"Possible risk, benefits may outweigh risks",N/A,5.3,N/A,N/A,N/A
+Rogaine Women's,Hair Loss,N/A,minoxidil (topical route),Prescription & Over-the-Counter,"Possible risk, benefits may outweigh risks",N/A,8.3,N/A,N/A,N/A
+Rogaine Men's Extra Strength,Hair Loss,N/A,minoxidil (topical route),Prescription & Over-the-Counter,"Possible risk, benefits may outweigh risks",N/A,3.7,N/A,N/A,N/A
+"rogaine solution, non-",Hair Loss,"Burning, stinging, or redness at the application site may occur.",N/A,N/A,N/A,N/A,N/A,5.0,4.0,4.0
+acyclovir,Herpes,N/A,acyclovir (topical),Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,8.6,N/A,N/A,N/A
+valacyclovir,Herpes,"Nausea ,  stomach pain ,  headache , or  dizziness  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,3.0
+allantoin / camphor / phenol,Herpes,N/A,"allantoin, camphor, and phenol (topical)",Over-the-Counter (No Prescription),Not classified by FDA,N/A,10.0,N/A,N/A,N/A
+famvir,Herpes,"Headache ,  nausea , and  diarrhea  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+famciclovir,Herpes,"Headache ,  nausea , and  diarrhea  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+Blistex Ointment,Herpes,N/A,"allantoin, camphor, and phenol (topical)",Over-the-Counter (No Prescription),Not classified by FDA,N/A,10.0,N/A,N/A,N/A
+zovirax,Herpes,"Nausea ,  diarrhea ,  headache , or  vomiting  may occur.",N/A,N/A,N/A,N/A,N/A,4.0,5.0,3.0
+Zovirax Ointment,Herpes,N/A,acyclovir (topical route),Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,8.7,N/A,N/A,N/A
+Zovirax Cream,Herpes,N/A,acyclovir (topical),Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,9.3,N/A,N/A,N/A
+clonidine hcl er,High Blood Pressure,"Dizziness ,  lightheadedness , drowsiness, tiredness, stuffy nose,  dry mouth , or  constipation  may occur.",N/A,N/A,N/A,N/A,N/A,4.0,5.0,4.0
+avalide,High Blood Pressure,"Dizziness ,  lightheadedness , or  upset stomach  may occur as your body adjusts to the  medication . If any of these effects persist or worsen, tell your doctor or  pharmacist  promptly.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+clonidine hcl,High Blood Pressure,"Dizziness ,  lightheadedness , drowsiness,  dry mouth , or  constipation  may occur.",N/A,N/A,N/A,N/A,N/A,4.0,5.0,4.0
+azilsartan medoxomil tablet,High Blood Pressure,"Dizziness ,  diarrhea , or  fatigue , may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+azor,High Blood Pressure,Dizziness  or  lightheadedness  may occur as your body adjusts to the  medication .  Headache  or flushing may also occur.,N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+amitiza,IBS,"Nausea ,  diarrhea , gas,  vomiting ,  dry mouth ,  runny nose ,  cough , fever,  headache ,  joint / back pain , or  trouble sleeping  may occur.",N/A,N/A,N/A,N/A,N/A,3.89,3.56,2.89
+linzess,IBS,"Diarrhea ,  bloating , gas, or  stomach / abdominal pain /discomfort may occur.",N/A,N/A,N/A,N/A,N/A,4.83,4.0,3.83
+quazepam,Insomnia,N/A,quazepam,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,9.8,N/A,N/A,N/A
+Doral,Insomnia,N/A,quazepam,Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,9.7,N/A,N/A,N/A
+pentobarbital,Insomnia,N/A,pentobarbital (injection),Prescription (Doctor Required),"Evidence of risk, may still be used if needed",Interacts with alcohol,10.0,N/A,N/A,N/A
+Nighttime Sleepaid,Insomnia,N/A,Doxylamine,Prescription & Over-the-Counter,"Likely safe, not well studied in humans",Interacts with alcohol,10.0,N/A,N/A,N/A
+amobarbital,Insomnia,N/A,Amobarbital,Prescription (Doctor Required),"Evidence of risk, may still be used if needed",Interacts with alcohol,10.0,N/A,N/A,N/A
+diclofenac potassium 50 mg oral powder packet,Migraine,"Nausea ,  vomiting ,  constipation ,  diarrhea ,  dizziness , or drowsiness may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+aleve,Migraine,"Upset stomach ,  nausea ,  heartburn ,  headache , drowsiness, or  dizziness  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+acetaminophen / aspirin / caffeine / salicylamide,Migraine,N/A,"Acetaminophen, Aspirin, Caffeine, and Salicylamide Tablets",Prescription & Over-the-Counter,Not classified by FDA,Interacts with alcohol,9.9,N/A,N/A,N/A
+diclofenac potassium,Migraine,"Upset stomach ,  nausea ,  heartburn ,  diarrhea ,  constipation , gas,  headache , drowsiness, and  dizziness  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+Goody's Extra Strength,Migraine,N/A,"acetaminophen, aspirin, and caffeine",Over-the-Counter (No Prescription),Not classified by FDA,Interacts with alcohol,10.0,N/A,N/A,N/A
+methylergonovine,Migraine,N/A,methylergonovine (oral and injection),Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",N/A,9.8,N/A,N/A,N/A
+amerge,Migraine,"Flushing, sensations of tingling/numbness/prickling/heat,  weakness , drowsiness, or  dizziness  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+Migergot,Migraine,N/A,Ergotamine and Caffeine Suppositories,Prescription (Doctor Required),Unsafe in pregnancy,N/A,10.0,N/A,N/A,N/A
+Methergine,Migraine,N/A,methylergonovine (oral and injection),Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",N/A,9.7,N/A,N/A,N/A
+cafergot,Migraine,"Nausea ,  vomiting ,  upset stomach , restlessness,  trouble sleeping , or  dizziness  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+apri,Painful Periods,"Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, swelling of the  ankles /feet (fluid retention), or  weight  change may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,1.0
+"advil tablet, chewable",Painful Periods,"Upset stomach ,  nausea ,  vomiting ,  headache ,  diarrhea ,  constipation ,  dizziness , or drowsiness may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+altavera,Painful Periods,"Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, swelling of the  ankles /feet (fluid retention), or  weight  change may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,4.0
+aranelle,Painful Periods,"Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, swelling of the  ankles /feet (fluid retention), or  weight  change may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+advil tablet,Painful Periods,"Upset stomach ,  nausea ,  vomiting ,  headache ,  diarrhea ,  constipation ,  dizziness , or drowsiness may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+"ceftin suspension, reconstituted",Strep Throat,"Nausea ,  vomiting ,  diarrhea , strange taste in the  mouth , or  stomach pain  may occur.",N/A,N/A,N/A,N/A,N/A,3.0,5.0,5.0
+"clarithromycin suspension, reconstituted",Strep Throat,"Diarrhea ,  nausea ,  vomiting , and changes in taste may occur.",N/A,N/A,N/A,N/A,N/A,4.0,5.0,5.0
+erythrocin lactobionate vial with threaded port,Strep Throat,"Nausea ,  vomiting ,  diarrhea /loose stools,  stomach pain , or pain/redness at the injection site may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,2.0
+clarithromycin er,Strep Throat,"Diarrhea ,  nausea ,  vomiting , and changes in taste may occur.",N/A,N/A,N/A,N/A,N/A,4.0,5.0,5.0
+clarithromycin,Strep Throat,"Diarrhea ,  nausea ,  vomiting ,  headache , and changes in taste may occur.",N/A,N/A,N/A,N/A,N/A,4.0,5.0,5.0
+Lithostat,UTI,N/A,acetohydroxamic acid,Prescription (Doctor Required),Unsafe in pregnancy,N/A,9.0,N/A,N/A,N/A
+phenazopyridine hcl,UTI,"Headache ,  dizziness , or  stomach  upset may occur.",N/A,N/A,N/A,N/A,N/A,4.75,5.0,4.75
+acetohydroxamic acid,UTI,N/A,acetohydroxamic acid,Prescription (Doctor Required),Unsafe in pregnancy,N/A,9.0,N/A,N/A,N/A
+Uta,UTI,N/A,"hyoscyamine, methenamine, methylene blue, and sodium biphosphate",Prescription (Doctor Required),"Possible risk, benefits may outweigh risks",Interacts with alcohol,10.0,N/A,N/A,N/A
+pyridium,UTI,"Headache ,  dizziness , or  stomach  upset may occur.",N/A,N/A,N/A,N/A,N/A,4.14,3.29,2.86
+uristat,UTI,"Headache ,  dizziness , or  stomach  upset may occur.",N/A,N/A,N/A,N/A,N/A,4.75,4.75,5.0
+Duricef,UTI,N/A,cefadroxil (oral route),Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,10.0,N/A,N/A,N/A
+cefadroxil,UTI,N/A,cefadroxil,Prescription (Doctor Required),"Likely safe, not well studied in humans",N/A,10.0,N/A,N/A,N/A
+Adipex-P,Weight Loss,N/A,phentermine,Prescription (Doctor Required),Unsafe in pregnancy,Interacts with alcohol,8.9,N/A,N/A,N/A
+Pregnyl,Weight Loss,N/A,human chorionic gonadotropin (HCG) (injectable),Prescription (Doctor Required),Unsafe in pregnancy,N/A,9.0,N/A,N/A,N/A
+phentermine hcl,Weight Loss,"Dizziness ,  dry mouth , difficulty sleeping, irritability,  nausea ,  vomiting ,  diarrhea , or  constipation  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,4.5,3.0
+phentermine,Weight Loss,N/A,phentermine,Prescription (Doctor Required),Unsafe in pregnancy,Interacts with alcohol,8.7,N/A,N/A,N/A
+adipex-p,Weight Loss,"Dizziness ,  dry mouth , difficulty sleeping, irritability,  nausea ,  vomiting ,  diarrhea , or  constipation  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+belviq,Weight Loss,"Nausea ,  dry mouth ,  headache ,  dizziness ,  constipation , or tiredness may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+diethylpropion,Weight Loss,N/A,diethylpropion,Prescription (Doctor Required),"Likely safe, not well studied in humans",Interacts with alcohol,8.7,N/A,N/A,N/A
+Xenical,Weight Loss,N/A,orlistat,Prescription (Doctor Required),Unsafe in pregnancy,N/A,8.3,N/A,N/A,N/A
+qsymia,Weight Loss,"Dizziness , drowsiness,  dry mouth , difficulty sleeping, tiredness, tingling of the hands/feet,  constipation , and  metallic taste  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,4.0,4.0
+orlistat capsule,Weight Loss,"Changes in your bowel function often occur because of the unabsorbed  fat . Fatty/oily stool, oily spotting, intestinal gas with discharge, a feeling of needing to have a  bowel movement  right away, increased number of  bowel movements , or poor bowel control may occur.",N/A,N/A,N/A,N/A,N/A,3.5,3.5,3.5
+clotrimazole-betamethasone lotion,Yeast Infection,"Burning, tingling,  dry skin , or stinging may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+clotrimazole-7 cream with applicator,Yeast Infection,"Vaginal/urethral burning/ itching /pain, or lower abdominal  cramps  may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+econazole foam,Yeast Infection,"Burning, stinging, irritation, or redness at the application site may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+econazole nitrate cream,Yeast Infection,"Burning, stinging, irritation, or redness at the application site may occur.",N/A,N/A,N/A,N/A,N/A,5.0,5.0,5.0
+gyne-lotrimin-7 cream with applicator,Yeast Infection,"Vaginal/urethral burning/ itching /pain, or lower abdominal  cramps  may occur.",N/A,N/A,N/A,N/A,N/A,4.0,5.0,5.0
