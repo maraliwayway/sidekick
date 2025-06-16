@@ -4,21 +4,21 @@ from typing import List
 import uuid
 import shutil
 import os
-from easyocr_python import extract_text_from_image  # Import your OCR model
 from fastapi.middleware.cors import CORSMiddleware
 
+# import our new ocr_pipeline
+from ocr_pipeline import extract_text_from_image, guess_vitamin, generate_vitamin_summary
 
 app = FastAPI(title="Sidekick Backend API")
 
-
+# Enable CORS for frontend access
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # For dev (restrict this for production)
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 # -------------------- DATABASE MOCKUP --------------------
 vitamin_db = {
@@ -63,33 +63,38 @@ class RegisterRequest(BaseModel):
     username: str
     email: str
 
-# -------------------- 1.x Vitamin Path --------------------
+# -------------------- VITAMIN SCAN PIPELINE --------------------
+
+@app.post("/vitamin/scan")
+async def scan_vitamin(file: UploadFile = File(...)):
+    try:
+        # Save uploaded file temporarily
+        temp_filename = f"temp_{uuid.uuid4()}.jpg"
+        with open(temp_filename, "wb") as buffer:
+            shutil.copyfileobj(file.file, buffer)
+
+        # OCR → LLM pipeline
+        ocr_lines = extract_text_from_image(temp_filename)
+        predicted_vitamin = guess_vitamin(ocr_lines)
+        vitamin_summary = generate_vitamin_summary(predicted_vitamin)
+
+        os.remove(temp_filename)
+
+        return {
+            "predicted_vitamin": predicted_vitamin,
+            "summary": vitamin_summary
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# -------------------- EXISTING VITAMIN PATHS --------------------
 @app.post("/vitamin/select")
 def select_vitamin(req: VitaminSelectionRequest):
     vitamin = vitamin_db.get(req.vitamin_name)
     if not vitamin:
         raise HTTPException(status_code=404, detail="Vitamin not found.")
     return vitamin
-
-@app.post("/vitamin/scan")
-def scan_bottle(file: UploadFile = File(...)):
-    try:
-        temp_filename = f"temp_{uuid.uuid4()}.jpg"
-        with open(temp_filename, "wb") as buffer:
-            shutil.copyfileobj(file.file, buffer)
-        
-        ocr_results = extract_text_from_image(temp_filename)
-        os.remove(temp_filename)
-
-        detected_vitamins = []
-        for text in ocr_results:
-            for vitamin_name in vitamin_db.keys():
-                if vitamin_name.lower() in text[1].lower():
-                    detected_vitamins.append(vitamin_name)
-        
-        return {"detected_vitamins": detected_vitamins or ["No vitamin detected"]}
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
 
 @app.post("/vitamin/validate")
 def validate_bottle(scanned_id: str, confirmed_vitamin: str):
@@ -100,7 +105,7 @@ def list_alternatives():
     alternatives = list(vitamin_db.keys())[:20]
     return {"alternatives": alternatives}
 
-# -------------------- 2.x Drug Path --------------------
+# -------------------- DRUG PATHS --------------------
 @app.get("/drug/categories")
 def list_health_categories():
     return {"categories": health_categories}
@@ -132,10 +137,10 @@ def recommend_vitamins(req: DrugInfoRequest):
     recommended = ["Vitamin C", "Vitamin D"]
     return {"recommendations": recommended}
 
+# -------------------- HEALTH CHECK + REGISTER --------------------
 @app.get("/health")
 def health_check():
     return {"status": "Sidekick API is healthy."}
-
 
 @app.post("/register")
 def register(req: RegisterRequest):
