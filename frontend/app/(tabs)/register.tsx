@@ -7,8 +7,7 @@ export default function Register() {
   const [response, setResponse] = useState<string>('');
 
   const handleRegister = () => {
-    // ip address go here
-    fetch('http://172.29.159.181:8000/register', {
+    fetch('http:YOUR_IP_ADDRESS:8000/register', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ username, email }),
