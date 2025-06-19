@@ -32,4 +32,4 @@ yarn-error.*
 .env
 
 # typescript
-*.tsbuildinfo
+*.tsbuildinfoddi_model_package/ddi_model.pkl
