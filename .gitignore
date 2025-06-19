@@ -33,3 +33,4 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfoddi_model_package/ddi_model.pkl
+ddi_model_package/ddi_model.pkl
