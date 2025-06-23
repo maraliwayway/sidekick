@@ -32,8 +32,4 @@ yarn-error.*
 .env
 
 # typescript
-<<<<<<< HEAD
 *.tsbuildinfo
-=======
-*.tsbuildinfo
->>>>>>> source/main
